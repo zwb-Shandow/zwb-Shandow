@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm zwb-Shandow</h1>
 
-<!--
-**zwb-Shandow/zwb-Shandow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [neovim](https://github.com/zwb-Shandow/customized-nvim)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **ROS/CyberRT MiddleWare**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **zwbShandow@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zwb-shandow&show_icons=true&locale=en" alt="zwb-shandow" /></p>
